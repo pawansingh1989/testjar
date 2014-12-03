@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19266" started-at="2014-12-03T06:31:38Z" finished-at="2014-12-03T06:31:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19266" started-at="2014-12-03T06:31:38Z" finished-at="2014-12-03T06:31:57Z">
+      <class name="selenium.TestJar">
+        <test-method status="PASS" signature="test()[pri:0, instance:selenium.TestJar@181ca265]" name="test" duration-ms="19252" started-at="2014-12-03T12:01:38Z" finished-at="2014-12-03T12:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- selenium.TestJar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
